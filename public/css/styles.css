@@ -10245,3 +10245,7 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #000;
 }
+
+.not-visible{
+	visibility: hidden;
+}
